@@ -1,0 +1,27 @@
+                                                      PACS SNCF
+
+
+
+Bonjour à vous, si vous lisez cela, c'est que vous utilisez mon programme.
+
+Ce logiciel a pour utilité principale l'analyse de données de documents Excel. Ce logiciel est codé en Python, donc avant de l'utiliser, veuillez suivre les étapes suivantes.
+
+Tout d'abord, veuillez installer Python sur votre PC si ce n'est pas encore fait, (via ce lien https://www.python.org/downloads/). Durant l'installation, veillez à bien installer pip. L'extension Python peut également être installée, si vous utilisez Visual Studio Code.
+
+Une fois cette étape réussie, il y aura des bibliothèques à importer pour faire fonctionner le programme. Les voici :
+
+CMD à faire dans le terminal Python.
+
+Pandas ---> pip install pandas
+Tkinter ---> import tkinter as tk
+PIL ---> pip install Pillow
+Openpyxl ---> pip install openpyxl
+Docs ---> pip install docs
+
+TRES IMPORTANT ! : Veuillez à bien modifier le chemin d'accès des images
+
+Pour ensuite lancer le logiciel, il vous faudra simplement faire un clic droit sur le fichier (PACS-SNCF-ALL.py) (PACS-SNCF-PRSN-SUR-LE-PROJET.py)en fonction de ce que vous voulez faire et exécuter le fichier Python dans le terminal.
+
+
+Bonne utilisation !
+
